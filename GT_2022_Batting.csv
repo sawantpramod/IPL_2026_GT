@@ -1,0 +1,113 @@
+match_id,match_date,innings_no,batsman,batting_position,runs,balls,fours,sixes,strike_rate,not_out_flag,dismissal_type,innings_total_runs,innings_total_wkts,innings_overs,match_result
+45901,28-03-2022,2,Shubman Gill,1,0,3,0,0,NaN,FALSE,Caught,161,5,19,Win
+45901,28-03-2022,2,Matthew Wade,2,30,29,4,0,103.45,FALSE,Bowled,161,5,19,Win
+45901,28-03-2022,2,Vijay Shankar,3,4,6,0,0,66.67,FALSE,Bowled,161,5,19,Win
+45901,28-03-2022,2,Hardik Pandya,4,33,28,5,1,117.86,FALSE,Caught,161,5,19,Win
+45901,28-03-2022,2,David Miller,5,30,21,1,2,142.86,FALSE,Caught,161,5,19,Win
+45901,28-03-2022,2,Rahul Tewatia,6,40,24,5,2,166.67,TRUE,Not Out,161,5,19,Win
+45901,28-03-2022,2,Abhinav Manohar,7,15,7,3,0,214.29,TRUE,Not Out,161,5,19,Win
+45931,02-04-2022,1,Shubman Gill,2,84,46,6,4,182.61,FALSE,Caught,171,6,20,Win
+45931,02-04-2022,1,Vijay Shankar,3,13,20,1,0,65,FALSE,Bowled,171,6,20,Win
+45931,02-04-2022,1,Hardik Pandya,4,31,27,4,0,114.81,FALSE,Caught,171,6,20,Win
+45931,02-04-2022,1,Rahul Tewatia,6,14,8,1,1,175,FALSE,Caught,171,6,20,Win
+45931,02-04-2022,1,Abhinav Manohar,7,1,2,0,0,50,FALSE,Caught,171,6,20,Win
+45931,02-04-2022,1,Rashid Khan,8,0,1,0,0,NaN,TRUE,Not Out,171,6,20,Win
+45961,08-04-2022,2,Matthew Wade,1,6,7,1,0,85.71,FALSE,Caught,190,4,20,Win
+45961,08-04-2022,2,Shubman Gill,2,96,59,11,1,162.71,FALSE,Caught,190,4,20,Win
+45961,08-04-2022,2,Sai Sudharsan,3,35,30,4,1,116.67,FALSE,Caught,190,4,20,Win
+45961,08-04-2022,2,Hardik Pandya,4,27,18,5,0,150,FALSE,Run Out,190,4,20,Win
+45961,08-04-2022,2,David Miller,5,6,4,1,0,150,TRUE,Not Out,190,4,20,Win
+45961,08-04-2022,2,Rahul Tewatia,6,13,3,0,2,433.33,TRUE,Not Out,190,4,20,Win
+45986,11-04-2022,1,Shubman Gill,2,7,9,1,0,77.78,FALSE,Caught,162,7,20,Loss
+45986,11-04-2022,1,Sai Sudharsan,3,11,9,2,0,122.22,FALSE,Caught,162,7,20,Loss
+45986,11-04-2022,1,Hardik Pandya,4,50,42,4,1,119.05,TRUE,Not Out,162,7,20,Loss
+45986,11-04-2022,1,Abhinav Manohar,6,35,21,5,1,166.67,FALSE,Caught,162,7,20,Loss
+45986,11-04-2022,1,Rahul Tewatia,7,6,4,1,0,150,FALSE,Run Out,162,7,20,Loss
+45986,11-04-2022,1,Rashid Khan,8,0,1,0,0,NaN,FALSE,Bowled,162,7,20,Loss
+46001,14-04-2022,1,Shubman Gill,2,13,14,2,0,92.86,FALSE,Caught,192,4,20,Win
+46001,14-04-2022,1,Vijay Shankar,3,2,7,0,0,28.57,FALSE,Caught,192,4,20,Win
+46001,14-04-2022,1,Hardik Pandya,4,87,52,8,4,167.31,TRUE,Not Out,192,4,20,Win
+46001,14-04-2022,1,Abhinav Manohar,5,43,28,4,2,153.57,FALSE,Caught,192,4,20,Win
+46026,17-04-2022,2,Wriddhiman Saha,1,11,18,0,0,61.11,FALSE,Caught,170,7,20,Win
+46026,17-04-2022,2,Shubman Gill,2,0,1,0,0,NaN,FALSE,Caught,170,7,20,Win
+46026,17-04-2022,2,Vijay Shankar,3,0,2,0,0,NaN,FALSE,Caught,170,7,20,Win
+46026,17-04-2022,2,Abhinav Manohar,4,12,12,2,0,100,FALSE,Caught,170,7,20,Win
+46026,17-04-2022,2,David Miller,5,94,51,8,6,184.31,TRUE,Not Out,170,7,20,Win
+46026,17-04-2022,2,Rahul Tewatia,6,6,14,0,0,42.86,FALSE,Caught,170,7,20,Win
+46026,17-04-2022,2,Rashid Khan,7,40,21,2,3,190.48,FALSE,Caught,170,7,20,Win
+46026,17-04-2022,2,Alzarri Joseph,8,0,1,0,0,NaN,FALSE,Caught,170,7,20,Win
+46026,17-04-2022,2,Lockie Ferguson,9,0,0,0,0,NaN,TRUE,Not Out,170,7,20,Win
+46056,23-04-2022,1,Shubman Gill,2,7,5,1,0,140,FALSE,Caught,156,9,20,Win
+46056,23-04-2022,1,Hardik Pandya,3,67,49,4,2,136.73,FALSE,Caught,156,9,20,Win
+46056,23-04-2022,1,Rahul Tewatia,5,17,12,2,0,141.67,FALSE,Caught,156,9,20,Win
+46056,23-04-2022,1,Rashid Khan,6,0,2,0,0,NaN,FALSE,Caught,156,9,20,Win
+46056,23-04-2022,1,Abhinav Manohar,7,2,4,0,0,50,FALSE,Caught,156,9,20,Win
+46056,23-04-2022,1,Lockie Ferguson,8,0,1,0,0,NaN,FALSE,Caught,156,9,20,Win
+46056,23-04-2022,1,Alzarri Joseph,9,1,1,0,0,100,TRUE,Not Out,156,9,20,Win
+46056,23-04-2022,1,Yash Dayal,10,0,1,0,0,NaN,FALSE,Caught,156,9,20,Win
+46081,27-04-2022,2,Wriddhiman Saha,1,68,38,11,1,178.95,FALSE,Bowled,199,5,20,Win
+46081,27-04-2022,2,Shubman Gill,2,22,24,1,1,91.67,FALSE,Bowled,199,5,20,Win
+46081,27-04-2022,2,Hardik Pandya,3,10,6,2,0,166.67,FALSE,Caught,199,5,20,Win
+46081,27-04-2022,2,David Miller,4,17,19,1,0,89.47,FALSE,Bowled,199,5,20,Win
+46081,27-04-2022,2,Rahul Tewatia,5,40,21,4,2,190.48,TRUE,Not Out,199,5,20,Win
+46081,27-04-2022,2,Abhinav Manohar,6,0,1,0,0,NaN,FALSE,Bowled,199,5,20,Win
+46081,27-04-2022,2,Rashid Khan,7,31,11,0,4,281.82,TRUE,Not Out,199,5,20,Win
+46096,30-04-2022,2,Wriddhiman Saha,1,29,22,4,0,131.82,FALSE,Caught,174,4,19,Win
+46096,30-04-2022,2,Shubman Gill,2,31,28,3,1,110.71,FALSE,LBW,174,4,19,Win
+46096,30-04-2022,2,Sai Sudharsan,3,20,14,2,0,142.86,FALSE,Caught,174,4,19,Win
+46096,30-04-2022,2,Hardik Pandya,4,3,5,0,0,60,FALSE,Caught,174,4,19,Win
+46096,30-04-2022,2,David Miller,5,39,24,4,1,162.5,TRUE,Not Out,174,4,19,Win
+46096,30-04-2022,2,Rahul Tewatia,6,43,25,5,2,172,TRUE,Not Out,174,4,19,Win
+46121,03-05-2022,1,Shubman Gill,2,9,6,2,0,150,FALSE,Run Out,143,8,20,Loss
+46121,03-05-2022,1,Sai Sudharsan,3,65,50,5,1,130,TRUE,Not Out,143,8,20,Loss
+46121,03-05-2022,1,Hardik Pandya,4,1,7,0,0,14.29,FALSE,Caught,143,8,20,Loss
+46121,03-05-2022,1,Rahul Tewatia,6,11,13,0,0,84.62,FALSE,Caught,143,8,20,Loss
+46121,03-05-2022,1,Rashid Khan,7,0,1,0,0,NaN,FALSE,Caught,143,8,20,Loss
+46121,03-05-2022,1,Sangwan,8,2,5,0,0,40,FALSE,Bowled,143,8,20,Loss
+46121,03-05-2022,1,Lockie Ferguson,9,5,3,1,0,166.67,FALSE,Caught,143,8,20,Loss
+46121,03-05-2022,1,Alzarri Joseph,10,4,5,0,0,80,TRUE,Not Out,143,8,20,Loss
+46136,06-05-2022,2,Wriddhiman Saha,1,55,40,6,2,137.5,FALSE,Caught,172,5,20,Loss
+46136,06-05-2022,2,Shubman Gill,2,52,36,6,2,144.44,FALSE,Caught,172,5,20,Loss
+46136,06-05-2022,2,Hardik Pandya,3,24,14,4,0,171.43,FALSE,Run Out,172,5,20,Loss
+46136,06-05-2022,2,Sai Sudharsan,4,14,11,1,1,127.27,FALSE,Other,172,5,20,Loss
+46136,06-05-2022,2,David Miller,5,19,14,1,1,135.71,TRUE,Not Out,172,5,20,Loss
+46136,06-05-2022,2,Rahul Tewatia,6,3,4,0,0,75,FALSE,Run Out,172,5,20,Loss
+46136,06-05-2022,2,Rashid Khan,7,1,1,0,0,100,TRUE,Not Out,172,5,20,Loss
+46166,10-05-2022,1,Shubman Gill,2,63,49,7,0,128.57,TRUE,Not Out,144,4,20,Win
+46166,10-05-2022,1,Hardik Pandya,4,11,13,0,0,84.62,FALSE,Caught,144,4,20,Win
+46166,10-05-2022,1,Rahul Tewatia,6,22,16,4,0,137.5,TRUE,Not Out,144,4,20,Win
+46191,15-05-2022,2,Wriddhiman Saha,1,67,57,8,1,117.54,TRUE,Not Out,137,3,19,Win
+46191,15-05-2022,2,Shubman Gill,2,18,17,3,0,105.88,FALSE,LBW,137,3,19,Win
+46191,15-05-2022,2,Matthew Wade,3,20,15,2,0,133.33,FALSE,Caught,137,3,19,Win
+46191,15-05-2022,2,Hardik Pandya,4,7,6,1,0,116.67,FALSE,Caught,137,3,19,Win
+46191,15-05-2022,2,David Miller,5,15,20,1,0,75,TRUE,Not Out,137,3,19,Win
+46216,19-05-2022,1,Shubman Gill,2,1,4,0,0,25,FALSE,Caught,168,5,20,Loss
+46216,19-05-2022,1,Hardik Pandya,4,62,47,4,3,131.91,TRUE,Not Out,168,5,20,Loss
+46216,19-05-2022,1,Rahul Tewatia,6,2,3,0,0,66.67,FALSE,Caught,168,5,20,Loss
+46216,19-05-2022,1,Rashid Khan,7,19,6,1,2,316.67,TRUE,Not Out,168,5,20,Loss
+47584,24-05-2022,2,Wriddhiman Saha,1,0,2,0,0,NaN,FALSE,Caught,191,3,19,Win
+47584,24-05-2022,2,Shubman Gill,2,35,21,5,1,166.67,FALSE,Run Out,191,3,19,Win
+47584,24-05-2022,2,Matthew Wade,3,35,30,6,0,116.67,FALSE,Caught,191,3,19,Win
+47584,24-05-2022,2,Hardik Pandya,4,40,27,5,0,148.15,TRUE,Not Out,191,3,19,Win
+47584,24-05-2022,2,David Miller,5,68,38,3,5,178.95,TRUE,Not Out,191,3,19,Win
+47605,29-05-2022,2,Wriddhiman Saha,1,5,7,1,0,71.43,FALSE,Bowled,133,3,18,Win
+47605,29-05-2022,2,Shubman Gill,2,45,43,3,1,104.65,TRUE,Not Out,133,3,18,Win
+47605,29-05-2022,2,Matthew Wade,3,8,10,0,1,80,FALSE,Caught,133,3,18,Win
+47605,29-05-2022,2,Hardik Pandya,4,34,30,3,1,113.33,FALSE,Caught,133,3,18,Win
+47605,29-05-2022,2,David Miller,5,32,19,3,1,168.42,TRUE,Not Out,133,3,18,Win
+45931,02-04-2022,1,David Miller,5,20,15,2,0,133.33,TRUE,Not Out,171,6,20,Win
+45986,11-04-2022,1,David Miller,5,12,15,0,0,80,FALSE,Caught,162,7,20,Loss
+46001,14-04-2022,1,David Miller,6,31,14,5,1,221.43,TRUE,Not Out,192,4,20,Win
+46056,23-04-2022,1,David Miller,4,27,20,1,2,135,FALSE,Caught,156,9,20,Win
+46121,03-05-2022,1,David Miller,5,11,14,0,0,78.57,FALSE,Caught,143,8,20,Loss
+46166,10-05-2022,1,David Miller,5,26,24,1,1,108.33,FALSE,Caught,144,4,20,Win
+46216,19-05-2022,1,David Miller,5,34,25,0,3,136,FALSE,Caught,168,5,20,Loss
+46056,23-04-2022,1,Wriddhiman Saha,1,25,25,2,1,100,FALSE,Caught,156,9,20,Win
+46121,03-05-2022,1,Wriddhiman Saha,1,21,17,3,1,123.53,FALSE,Caught,143,8,20,Loss
+46166,10-05-2022,1,Wriddhiman Saha,1,5,11,1,0,45.45,FALSE,Caught,144,4,20,Win
+46216,19-05-2022,1,Wriddhiman Saha,1,31,22,4,1,140.91,FALSE,Run Out,168,5,20,Loss
+45931,02-04-2022,1,Matthew Wade,1,1,2,0,0,50,FALSE,Caught,171,6,20,Win
+45986,11-04-2022,1,Matthew Wade,1,19,19,3,0,100,FALSE,LBW,162,7,20,Loss
+46001,14-04-2022,1,Matthew Wade,1,12,6,3,0,200,FALSE,Run Out,192,4,20,Win
+46166,10-05-2022,1,Matthew Wade,3,10,7,2,0,142.86,FALSE,Caught,144,4,20,WIn
+46216,19-05-2022,1,Matthew Wade,3,16,13,2,1,123.08,FALSE,LBW,168,5,20,Loss
